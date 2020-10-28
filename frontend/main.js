@@ -1,7 +1,7 @@
 "use strict";
 
 const root = document.querySelector("#root");
-// NOTE: Création d'un nouvel objet XMLHttpRequest
+// NOTE: Création d'un nouvel objet XMLHttpRequest 
 const XHR = new XMLHttpRequest();
 
 // NOTE: Le code s'effectue au chargement de la page
